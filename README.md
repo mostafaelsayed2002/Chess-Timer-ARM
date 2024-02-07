@@ -32,7 +32,7 @@ The `main.c` file serves as the application layer, orchestrating the interaction
 
 ## Video Demo
 
-[Watch the Video Demo](link_to_video_here)
+[Watch the Video Demo](https://youtube.com/shorts/vL2jgXO98j4)
 
 
 ## Contributions
