@@ -18,6 +18,18 @@ This project involves the development of a comprehensive system for the STM32 "b
 
 The `main.c` file serves as the application layer, orchestrating the interaction between various drivers and functionalities to implement the desired chess timer behavior.
 
+
+
+### Functionality
+## 1. Interchanging Between Players
+## 2. Pause Button
+## 3. Reset Button
+
+
+## Photo for the Prototype
+
+![Prototype Photo](https://i.imgur.com/RTBXuIj.jpeg)
+
 ## Video Demo
 
 [Watch the Video Demo](link_to_video_here)
