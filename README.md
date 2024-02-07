@@ -1,4 +1,4 @@
-# Chess Timer ARM Project
+# Chess Timer ARM Project (bare-metal)
 
 ## Overview
 
